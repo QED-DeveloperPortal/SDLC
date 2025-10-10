@@ -1,5 +1,7 @@
-# SDLC
-### Software Development Life Cycle guide for the Department of Education, Queensland
+---
+layout: default
+title: Home
+---
 
 Our SDLC is considered a strategic knowledge asset, not just a static document. Our approach to the SDLC reflects the Australian Government’s expectations around openness, reuse, and digital maturity—particularly as outlined in the Productivity Commission’s "Harnessing Data and Digital Technology" report.
 
