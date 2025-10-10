@@ -1,9 +1,7 @@
 ---
 layout: default
-title: SDLC home
+title: Old
 ---
-
-test
 
 ### Software Development Life Cycle guide for the Department of Education, Queensland
 
