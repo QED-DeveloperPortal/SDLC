@@ -1,5 +1,5 @@
 ---
-layout: page
+parent: SDLC home
 title: Values
 ---
 
