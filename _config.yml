@@ -1,4 +1,6 @@
 title: Software Development Lifecycle - Department of Education, Queensland
 description: Values, principals and practices used in developing digital applications for the Department of Education, Queensland.
 theme: just-the-docs
-
+nav_enabled: true
+heading_anchors: true
+footer_content: "Copyright &copy; 2025 Department Of Education, Queensland"
