@@ -1,6 +1,5 @@
 ---
-layout: page
-nav: true
+layout: home
 ---
 
 Test docs file
