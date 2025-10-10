@@ -1,10 +1,3 @@
----
-layout: default
-title: Values
-nav_enabled: true
-nav_order: 1
----
-
 ## Customers first
 Know your customers
 Deliver what matters
