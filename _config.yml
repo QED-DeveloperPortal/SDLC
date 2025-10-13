@@ -7,5 +7,7 @@ theme: minima
 nav_enabled: true
 heading_anchors: true
 
+baseurl: /SDLC/
+
 
 
