@@ -1,5 +1,5 @@
 ---
-layout: base-doe
+layout: base
 title: Home
 ---
 
