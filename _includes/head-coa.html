@@ -2,15 +2,15 @@
     <div id="header-logo-container">
       <div id="header-logo">
         <a class="img-light" href="https://www.qld.gov.au/" target="_blank">
-          <img id="header-img" class="img-light" src="/assets/images/Queensland_Government_logo_logotype.png" alt="Queensland government logo">
+          <img id="header-img" class="img-light" src="{{ '/assets/images/Queensland_Government_logo_logotype.png' | relative_url }}" alt="Queensland government logo">
         </a>
       </div>
     </div>
     <div class="sub-header-logo-container">
       <span id="sub-header-logo">
-          <img id="sub-header-img" class="img-light" src="/assets/images/departmentname.svg" alt="Department of Education">
+          <img id="sub-header-img" class="img-light" src="{{ '/assets/images/departmentname.svg' | relative_url }}" alt="Department of Education">
       </span>
-      <a href="/">
+      <a href="{{ '/' | relative_url }}">
         <span class="header-sub">Software Development Lifecycle</span>
       </a>
     </div>
