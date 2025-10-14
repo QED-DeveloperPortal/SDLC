@@ -1,5 +1,4 @@
 ---
-parent: SDLC home
 title: Values
 ---
 
