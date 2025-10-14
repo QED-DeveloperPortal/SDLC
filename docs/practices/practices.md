@@ -1,3 +1,7 @@
+---
+title: Practices
+---
+
 ## Core practices of SDLC 
 
 These are not phases to follow, but practices we engage in - intentionally, iteratively, and continuously. Each practice reflects a mindset and discipline that supports sustainable, user-centred delivery. They can occur in parallel, loop back, or fade in and out depending on the context. What matters most is that we actively engage in each practice, at the right time, for the right reason. 

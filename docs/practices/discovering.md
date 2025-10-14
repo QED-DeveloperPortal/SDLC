@@ -1,3 +1,7 @@
+---
+title: Practices - Discovering
+---
+
 # Discovering
 This practice includes activities like user research, service mapping, and assumption testing. It's how we ensure we’re building the right thing, not just building things right.
 It's not something that happens once at the start. It’s a mindset and capability that may re-emerge at any point when new information arises.
