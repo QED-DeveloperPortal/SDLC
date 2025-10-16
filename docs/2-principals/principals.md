@@ -1,6 +1,6 @@
----
+<!--
 title: Principals
----
+-->
 
 ## Start with WHY 
 To deliver and manage better digital solutions - faster, safer, and with purpose. 
