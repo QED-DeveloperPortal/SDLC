@@ -116,16 +116,19 @@ Throughout this document, all processes have been described based on the guideli
 Figure 3 illustrates a conceptual model for process description used in this handbook. <br>
 
 ![Process description](./figures/figure3-process_description.png)
+
 Figure 3 - Conceptual model for process description [3].
 
 Throughout this handbook, the term “Artefact” or “Deliverable” has been used instead of “Information Item”, as seen in Figure 3. <br>
 
 ![Enabling mechanism](./figures/figure4-enabling_mechanisms.png)
+
 Figure 4 - process inputs, outputs, controls and enabling mechanisms [4]
 
 Throughout this document, a consistent colouring scheme has been used to describe stages, processes and activities as follows: <br>
 
 ![Colouring conventions](./figures/figure5-colouring_conventions.png)
+
 Figure 5 - Stage, process, activity colouring conventions
 
 As will be discussed in “Release Categorization Dimensions (Process Viewpoints”, different category of releases (cloud-based vs on-prem and low risk vs. high risk scenarios), may require different steps and controls.
