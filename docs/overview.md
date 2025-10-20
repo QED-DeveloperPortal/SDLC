@@ -125,7 +125,7 @@ Figure 4 - process inputs, outputs, controls and enabling mechanisms [4]
 
 Throughout this document, a consistent colouring scheme has been used to describe stages, processes and activities as follows: <br>
 
-![colouring conventions](./figures/figure5-colouring_conventions.png)
+![Colouring conventions](./figures/figure5-colouring_conventions.png)
 Figure 5 - Stage, process, activity colouring conventions
 
 As will be discussed in “Release Categorization Dimensions (Process Viewpoints”, different category of releases (cloud-based vs on-prem and low risk vs. high risk scenarios), may require different steps and controls.
