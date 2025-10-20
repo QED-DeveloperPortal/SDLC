@@ -73,7 +73,41 @@ There are cases where the risk associated with a release requires extra attentio
 
 At the discretion of an individual approver, extra peer endorsements may also be acquired in certain circumstances.
 
-  
+It is necessary to version the documents according to the system release versions (please refer to “Release Versioning Conventions” for more details).  For each version, a row should be added to the version history table of the artefacts with the right details in them.
+
+Figure 2 shows a conceptual model for interactions with artefacts. An artefact can have multiple contributions from the same contributor in a single release each with separate comments. For each system/solution release, an artefact can have a unique endorsement and approval from the same endorser and approver accordingly. <br>
+
+![Artifact interaction](./figures/figure2-artefact_interactions.png)  
+
+The following tables illustrate examples of how the conceptual model behind artefact interactions can be implemented in the artefacts.
+
+| **System Release Version Number** | **Contributed by** | **Contribution Date** | **Comment** | **Modified Sections** |
+| :--- | :--- | :--- | :--- | :--- |
+| e.g. 1.2 | | | | |
+| e.g. 1.3 | | | | |
+
+Table 2 - Sample table for artefact contribution history log
+
+| **System Release Version Number** | **Endorsed by** | **Endorsement Date** | **Comment** |
+| :--- | :--- | :--- | :--- |
+| e.g. 1.2 | | | |
+| e.g. 1.3 | | | |
+
+Table 3 - - Sample table for artefact endorsement history log
+
+| **System Release Version Number** | **Approved by** | **Approval Date** | **Comment** |
+| :--- | :--- | :--- | :--- |
+| e.g. 1.2 | | | |
+| e.g. 1.3 | | | |
+
+Table 4 - Sample table for artefact approval history log
+
+| **System Release Version Number** | **Noted by** | **Noting Date** | **Comment** |
+| :--- | :--- | :--- | :--- |
+| e.g. 1.2 | | | |
+| e.g. 1.3 | | | |
+
+Table 5 - Sample table for artefact noting history log
 
 ## 1.8    Process Description
 
