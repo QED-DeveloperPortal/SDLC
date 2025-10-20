@@ -43,7 +43,8 @@ Moreover, ISO 15288:2015 has recognized that particular projects or organization
 
 It has been attempted to avoid personal interpretations and paraphrasing and quote contents whenever applicable.
 
-  
+Figure 1 illustrates the processes that have been chosen from ISO 15288:2015 for implementation in DET’s SDLC model.
+![SDLC processing](./figures/figure1-SDLC_processes.png)
 
 ## 1.6    Governance, Rigor and Quality
 
