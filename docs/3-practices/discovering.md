@@ -11,13 +11,14 @@ It's not something that happens once at the start. It’s a mindset and capabili
 - Supports better prioritisation and reduces waste 
 
 ## Desired outcomes vs anti-patterns 
-### Desired outcomes 
+*Desired outcomes*
 - A clear understanding of the problem space 
 - Evidence of user needs, not just opinions 
 - Shared vision across team and stakeholders 
 - A backlog of validated opportunities or ideas 
-- Reduced risk of building the wrong thing 
-### Anti-patterns to avoid 
+- Reduced risk of building the wrong thing
+
+*Anti-patterns to avoid*
 - Skipping user discovery to “save time” 
 - Treating discovery as a one-time phase 
 - Confusing internal opinions with user needs 
@@ -40,4 +41,4 @@ It's not something that happens once at the start. It’s a mindset and capabili
 - Lean UX canvas or Opportunity canvas: Helps connect user needs to business goals 
 
 ## Practice in action 
-> “During a Sprint Review, the team invited a small group of real users to view a rough prototype. Their feedback reframed the entire direction. What we thought was a complex workflow issue turned out to be a trust issue around terminology. We shifted our focus to language, simplified the UI, and solved the actual problem - not the assumed one.” 
+“During a Sprint Review, the team invited a small group of real users to view a rough prototype. Their feedback reframed the entire direction. What we thought was a complex workflow issue turned out to be a trust issue around terminology. We shifted our focus to language, simplified the UI, and solved the actual problem - not the assumed one.” 
