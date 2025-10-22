@@ -44,8 +44,7 @@ Moreover, ISO 15288:2015 has recognized that particular projects or organization
 It has been attempted to avoid personal interpretations and paraphrasing and quote contents whenever applicable.
 
 Figure 1 illustrates the processes that have been chosen from ISO 15288:2015 for implementation in DET’s SDLC model. <br>
-
-![SDLC processing](./figures/figure1-SDLC_processes.png)
+[![SDLC processing](./figures/figure1-SDLC_processes.png)](./figures/figure1-SDLC_processes.png)
 
 ## 1.6    Governance, Rigor and Quality
 
@@ -77,7 +76,7 @@ It is necessary to version the documents according to the system release version
 
 Figure 2 shows a conceptual model for interactions with artefacts. An artefact can have multiple contributions from the same contributor in a single release each with separate comments. For each system/solution release, an artefact can have a unique endorsement and approval from the same endorser and approver accordingly. <br>
 
-![Artifact interaction](./figures/figure2-artefact_interactions.png)  
+[![Artifact interaction](./figures/figure2-artefact_interactions.png)](./figures/figure2-artefact_interactions.png)
 
 The following tables illustrate examples of how the conceptual model behind artefact interactions can be implemented in the artefacts.
 
@@ -115,17 +114,17 @@ Throughout this document, all processes have been described based on the guideli
 
 Figure 3 illustrates a conceptual model for process description used in this handbook. <br>
 
-![Process description](./figures/figure3-process_description.png)
+[![Process description](./figures/figure3-process_description.png)](./figures/figure3-process_description.png)
 <br>Figure 3 - Conceptual model for process description [3].
 
 Throughout this handbook, the term “Artefact” or “Deliverable” has been used instead of “Information Item”, as seen in Figure 3. <br>
 
-![Enabling mechanism](./figures/figure4-enabling_mechanisms.png)
+[![Enabling mechanism](./figures/figure4-enabling_mechanisms.png)](./figures/figure4-enabling_mechanisms.png)
 <br>Figure 4 - process inputs, outputs, controls and enabling mechanisms [4]
 
 Throughout this document, a consistent colouring scheme has been used to describe stages, processes and activities as follows: <br>
 
-![Colouring conventions](./figures/figure5-colouring_conventions.png)
+[![Colouring convention](./figures/figure5-colouring_conventions.png)](./figures/figure5-colouring_conventions.png)
 <br>Figure 5 - Stage, process, activity colouring conventions
 
 As will be discussed in “Release Categorization Dimensions (Process Viewpoints”, different category of releases (cloud-based vs on-prem and low risk vs. high risk scenarios), may require different steps and controls.
