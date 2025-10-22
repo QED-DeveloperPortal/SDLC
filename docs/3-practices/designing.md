@@ -1,56 +1,61 @@
 # Designing
 
-*Exploring, shaping, and validating ideas before we build.*
+*Exploring and shaping possible solutions through rapid, testable ideas.*
 
-* Helps teams visualise and test ideas early, before costly development
-* Improves usability, accessibility, and user satisfaction
-* Encourages co-creation across disciplines (not just “design team” work)
-* Reduces delivery risk by catching issues early
-* Turns assumptions into testable artefacts
+* Makes thinking visible — so we can test it, challenge it, and improve it
+* Allows us to experiment without the cost of building too early
+* Encourages fast, flexible collaboration across disciplines
+* Supports usability, accessibility, and clear communication
+* Helps validate direction — then **evolve or discard** as needed
+
 
 
 ###  Desired outcomes vs  Anti-patterns
 
 ** Desired outcomes:**
 
-* Clear, user-centred interface and workflow concepts
-* Validated prototypes or mockups that reduce rework
-* Consistent, accessible, and inclusive design patterns
-* Team and stakeholder alignment on the intended experience
-* Design decisions grounded in user research and constraints
+* Shared understanding of how users might interact with a solution
+* Clickable or testable prototypes grounded in real user needs
+* Lightweight artefacts that help guide, not dictate, development
+* Opportunities for teams and users to shape design direction
+* Confident decisions on what to build — or what *not* to
 
 ** Anti-patterns:**
 
-* Treating design as a handoff or solo activity
-* “Pixel-perfect” designs created without user input
-* Over-investing in design before validating the problem
-* Designs that focus on aesthetics over usability
-* Stakeholders dictating UI without context or evidence
+* Designs treated as final specs, not exploratory artefacts
+* Overdesigned visuals that assume correctness before testing
+* “Big reveal” designs created in isolation
+* Treating design as ownership of a single role or team
+* Clinging to unvalidated concepts because they “look done”
 
 
-###  When we do it
 
-* After defining user needs and success outcomes
-* Before or during early development (iteratively)
-* When planning new features or flows
-* To test multiple approaches to a problem
-* When usability, accessibility, or clarity are at risk
+### When we do it
+
+* After discovery and early definition work
+* Before development starts—**or in parallel with it**
+* When we need to explore multiple options or approaches
+* As a lightweight way to reduce risk and gather feedback
+* When introducing new flows, content, or experiences
+
 
 
 ### Tools & Techniques
 
-* Wireframes, mockups, and clickable prototypes
-* Design systems and component libraries
-* Accessibility audits and inclusive design checks
-* Co-design workshops with users and stakeholders
-* Usability testing (in-person or remote)
-* Journey maps, storyboards, and task flows
-* Figma, Adobe XD, Balsamiq, or similar tools
-* “Design spikes” for high-risk or unknown features
-* UX writing, content design, and plain language testing
+* Clickable, disposable prototypes (Figma, XD, InVision)
+* Interactive mockups that simulate key flows
+* Co-design and sketching workshops
+* Design sprints and spike activities
+* Usability tests with rough prototypes
+* Storyboards, task flows, or experience maps
+* Wireframes annotated with user goals—not specs
+* Content-first or plain language design
+* Accessibility-by-design checklists
 
 
-### 💬 Practice in Action
 
-**“Ahead of a major new release, the team created clickable prototypes in Figma and invited five representative users for remote testing. One critical insight: users were missing a key feature because of how it was labelled. The team adjusted the layout and terminology, improving both usability and task completion—without writing a single line of code.”**
-— Cross-functional team using **UX Prototyping**, **Co-design**, and **Lean Validation**
+### Practice in Action
+**“When planning a new onboarding feature, the team ran a short design spike. They mocked up two rough prototypes in Figma and tested both with actual users. One was discarded completely. The other evolved through feedback into a working design the devs could easily build—without needing final artwork or pixel-perfect alignment.”**
+
+ — Agile delivery team applying **Design Thinking**, **Lean UX**, and **Prototyping as Conversation**
+
