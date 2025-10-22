@@ -8,13 +8,14 @@
 
 
 ### Desired outcomes vs  Anti-patterns
-** Desired outcomes:**
+*Desired outcomes:*
 * Clean, maintainable, and secure code
 * Working software delivered in small, testable increments
 * Peer-reviewed, version-controlled work with traceability
 * Automated tests integrated into the development workflow
 * Shared ownership and visibility across the team
-** Anti-patterns:**
+
+*Anti-patterns:*
 * “Code complete” mentality with no thought for integration, testing, or release
 * Handover-based dev work (e.g. "the devs will build this and throw it over the wall")
 * Over-engineering or building for imagined future needs
