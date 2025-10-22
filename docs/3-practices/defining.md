@@ -1,7 +1,5 @@
 # Defining
-
 *Clarifying purpose, priorities, and direction so everyone pulls in the same direction.*
-
 * Turns research insights into actionable direction
 * Helps teams focus on what matters most—outcomes, not just output
 * Aligns stakeholders, delivery teams, and users around shared goals
@@ -9,19 +7,15 @@
 * Prevents drift, ambiguity, and gold-plating
 
 
-
 ### Desired outcomes vs Anti-patterns
-
 ** Desired outcomes:**
-
 * A clearly articulated problem or opportunity statement
 * Shared understanding of user and business goals
 * A prioritised backlog of actionable work
 * Agreement on what “good” looks like (definition of done/success)
 * Trade-offs and constraints are visible and agreed upon
-
+  
 ** Anti-patterns:**
-
 * Vague requirements or constantly shifting goals
 * Too much upfront detail (overplanning or solutionising too early)
 * Assumptions treated as facts
@@ -29,9 +23,7 @@
 * Defining done based on output (e.g., “code delivered”) not outcome
 
 
-
 ### When we do it
-
 * After early discovery, once needs are emerging
 * At the start of a new initiative, sprint, or roadmap cycle
 * When backlog becomes bloated, scattered, or misaligned
@@ -39,9 +31,7 @@
 * When delivery is happening but no one’s sure why
 
 
-
 ### Tools & Techniques
-
 * Lean Canvas or Opportunity Canvas
 * Problem statements and success criteria
 * User story mapping
