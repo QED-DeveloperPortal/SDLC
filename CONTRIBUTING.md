@@ -1,6 +1,8 @@
 How to propose changes, style guide, governance model
 
 
+# How to Contribute
+
 In order to make a contribution to the QED SLDC, please follow these instructions.
 
 1. [Setup a GitHub.com account](https://docs.github.com/en/get-started/start-your-journey/creating-an-account-on-github)
