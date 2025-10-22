@@ -12,7 +12,7 @@ The core content is a **guide** detailing the **entire SDLC** as practiced by th
 ***
 
 ## 📂 Expected content for a learner
-While the direct content of the files wasn't fully readable in the summary, the folder structure and description strongly suggest the documentation covers the following learning topics:
+While the detailed content of the files won't be fully readable in the summary, the folder structure and description strongly suggest that the documentation covers the following learning topics:
 
 * **SDLC phases and documentation:** The `docs` folder is likely the main area, containing detailed documentation for each stage of the SDLC (e.g., planning, requirements, design, implementation, testing, deployment).
 * **Standards and best practices:** The guide will detail the **required quality, security, and governance standards** that must be met for software within the department.
