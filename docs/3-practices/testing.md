@@ -8,13 +8,14 @@
 
 
 ### Desired outcomes vs Anti-patterns
-**Desired outcomes:**
+*Desired outcomes:*
 * Automated and manual tests aligned to real user scenarios
 * Fast, reliable feedback loops built into the CI/CD pipeline
 * Accessibility, security, and performance tested as part of delivery
 * Shared responsibility for quality—devs, testers, and designers collaborating
 * Testing seen as a learning and risk-reduction activity
-**Anti-patterns:**
+
+*Anti-patterns:*
 * Testing left to the end of the project or sprint
 * Manual test cases with no automation or reuse
 * QA isolated from design, development, and delivery
