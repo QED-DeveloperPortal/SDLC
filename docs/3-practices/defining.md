@@ -8,14 +8,14 @@
 
 
 ### Desired outcomes vs Anti-patterns
-** Desired outcomes:**
+*Desired outcomes:*
 * A clearly articulated problem or opportunity statement
 * Shared understanding of user and business goals
 * A prioritised backlog of actionable work
 * Agreement on what “good” looks like (definition of done/success)
 * Trade-offs and constraints are visible and agreed upon
   
-** Anti-patterns:**
+*Anti-patterns:*
 * Vague requirements or constantly shifting goals
 * Too much upfront detail (overplanning or solutionising too early)
 * Assumptions treated as facts
