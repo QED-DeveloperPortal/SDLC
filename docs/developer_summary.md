@@ -1,6 +1,7 @@
-<!--
+---
 index: true
--->
+---
+
 # Developer’s Summary
 
 As a systems development team member, the following steps can show you how to follow DET’s SDLC process model effectively:
