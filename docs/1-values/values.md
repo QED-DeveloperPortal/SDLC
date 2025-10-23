@@ -1,6 +1,7 @@
-<!--
+---
+index: true
 title: Values
--->
+---
 
 ## Customers first
 Know your customers
