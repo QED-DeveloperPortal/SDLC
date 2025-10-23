@@ -1,3 +1,7 @@
+---
+index: true
+---
+
 #  Executive Summary
 
 This handbook has been developed with the aim to present a process model for systems development activities, including activities performed under “projects” and activities performed under “business as usual” or “support/maintenance” work.

@@ -1,3 +1,7 @@
+---
+index: true
+---
+
 # Terms and definitions
 
 | **Term** | **Definition** |

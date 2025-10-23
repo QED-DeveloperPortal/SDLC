@@ -1,3 +1,7 @@
+---
+index: true
+---
+
 ## Deploying
 *Moving working software into the hands of users—safely, confidently, and often.*
 * Makes improvements real—delivery isn’t done until it’s in production

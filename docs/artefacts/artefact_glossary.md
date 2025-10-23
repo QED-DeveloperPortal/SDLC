@@ -1,3 +1,7 @@
+---
+index: true
+---
+
 # SDLC Artefact glossary
 
 | **Artefact** | **Required for Type 1 Release** | **Required for Type 2 Release** | **Required for Type 3 Release** |

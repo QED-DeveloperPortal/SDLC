@@ -1,3 +1,7 @@
+---
+index: true
+---
+
 ## Learning
 *Making every release, risk, and result a chance to get better.*
 * Turns delivery into discovery by **measuring what matters**

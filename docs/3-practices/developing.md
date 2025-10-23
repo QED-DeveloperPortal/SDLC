@@ -1,3 +1,7 @@
+---
+index: true
+---
+
 ## Developing
 *Bringing ideas to life through working, testable, maintainable software.*
 * Turns validated concepts into functional digital solutions
