@@ -1,3 +1,6 @@
+---
+index: true
+---
 # Model and Principles
 *These principles guide the application of the SDLC across all projects and methodologies.*
 
