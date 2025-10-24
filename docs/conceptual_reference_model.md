@@ -1,3 +1,6 @@
+---
+index: true
+---
 # SDLC Conceptual Reference Model
 Throughout the SDLC, a set of concepts have been used based on a conceptual reference model (depicted in Figure 6, which is a class diagram representing entities and their relationships). It is highly recommended to fully understand this model as it will be the foundation behind all the rules and definitions in this handbook.
 [Figure 6]
