@@ -1,3 +1,7 @@
+---
+index: true
+---
+
 # Release Categorization Dimensions (Process Viewpoints)
 In order to demonstrate how certain goals for certain scenarios (e.g. developing high-risk systems) are achieved through the use of this SDLC process model, the process model can be viewed from different viewpoints. This chapter describes a number of such viewpoints from which different concerns related to systems development activities are addressed. The view seen out of the SDLC process model from each viewpoint will demonstrate how those goals are achieved in such scenarios.
 These definitions and their properties have been aligned to ISO 24774:2010 \[3\].
