@@ -96,7 +96,7 @@ Table 2 - Sample table for artefact contribution history log
 | e.g. 1.2 | | | |
 | e.g. 1.3 | | | |
 
-Table 3 - - Sample table for artefact endorsement history log
+Table 3 - Sample table for artefact endorsement history log
 
 | **System Release Version Number** | **Approved by** | **Approval Date** | **Comment** |
 | :--- | :--- | :--- | :--- |
