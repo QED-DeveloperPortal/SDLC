@@ -36,6 +36,7 @@ In order to keep the SDLC generic and help it be applicable in different areas o
 | Type 1 | Major | Project | Major |
 | Type 2 | Minor | Major, Significant | Minor |
 | Type 3 | Maintenance/Bug Fix | Minor, Emergency, Adhoc | Maintenance/Bug Fix |
+
 Table 6 - release scope types and scope type mappings for different areas of the organization
 
 Despite these definitions being subjective, there are a number of criteria that can help the development teams determine which category of release they should choose as it affects the governance model and supporting artefacts applicable.
@@ -48,6 +49,7 @@ Table 7 illustrates a list of criteria to determine the scope type of a release.
 | Type 1 | Yes | Yes | Yes | Yes |
 | Type 2 | No | No | No | Yes |
 | Type 3 | No | No | No | No |
+
 Table 7 - Release Scope Type Determination Criteria Matrix
 You can refer to section “‎7.11.5.2” which explains the release planning and scope type determination process in details.
 
