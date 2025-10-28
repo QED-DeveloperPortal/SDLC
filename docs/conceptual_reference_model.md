@@ -5,6 +5,8 @@ index: true
 Throughout the SDLC, a set of concepts have been used based on a conceptual reference model (depicted in Figure 6, which is a class diagram representing entities and their relationships). It is highly recommended to fully understand this model as it will be the foundation behind all the rules and definitions in this handbook.
 [Figure 6]
 
+[![SDLC conceptual reference model](./figures/figure6-SDLC_conceptual_reference_model.png)](./figures/figure6-SDLC_conceptual_reference_model.png)
+
 
 ## Overview of the SDLC Entity Relationships
 This model shows how various elements of the **Software Development Life Cycle (SDLC)** interact within a structured, governable process. It links **releases, risks, activities, controls, stages**, and **acceptability assessments**, helping ensure each release meets expectations before going live.
