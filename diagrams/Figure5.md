@@ -1,13 +1,13 @@
-Stage
+Stage (Overall parent)
 
-Process 1
+Process 1 (Child of Stage)
 
-Process 2
+Process 2 (Child of Stage)
 
-Activity 1
+Activity 1 (Child of Process 2)
 
-Activity 2
+Activity 2 (Child of Process 2)
 
-Activity 3 - Mandatory for releases with high risk levels
+Activity 3 - IMPORTANT: Mandatory for releases with high risk levels (Child of Process 2)
 
-Activity 4
+Activity 4 (Child of Process 2)

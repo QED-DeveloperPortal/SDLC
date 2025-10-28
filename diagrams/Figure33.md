@@ -1,6 +1,6 @@
 Figure 33 - The work breakdown structure of the Preliminary Cloud Assessment Process
 
-Preliminary Cloud Assessment Process
+Preliminary Cloud Assessment Process Stages:
 
 1. Prepare decision making criteria (cloud suitability criteria)
 2. Identify alternatives

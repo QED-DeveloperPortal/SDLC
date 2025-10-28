@@ -1,8 +1,6 @@
 Figure 75 - The work breakdown structure of the Early Life Support Process
 
-Early Life Support Process
-
-Subitems:
+Early Life Support Process Stages:
 
 1. Establish the presence of the new release in the issue/problem management system(s)
 2. Enable manual and/or automated monitoring on the deployed release

@@ -1,8 +1,6 @@
 Figure 63 - The work breakdown structure of the Accessibility Review Process
 
-Accessibility Review Process
-
-Subitems:
+Accessibility Review Process Stages:
 
 1. Identify affected areas of the code
 2. Evaluate the user interface for conformance to established criteria, contracts, standards, and regulations

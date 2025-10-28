@@ -1,8 +1,6 @@
 Figure 47 - The work breakdown structure of the System Analysis Process
 
-System Analysis Process
-
-Steps:
+System Analysis Process Stages:
 
 1. Identify the requirements, problem or question that requires system analysis
 2. Identify the relevant stakeholders and engage, if required

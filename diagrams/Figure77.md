@@ -1,8 +1,6 @@
 Figure 77 - The work breakdown structure of the Transition Process
 
-Transition Process
-
-Subitems:
+Transition Process Stages:
 
 1. Identify and define any factility or site changes needed
 2. Identify and arrange training of operators, users, and other stakeholders necessary for system utilisation and support

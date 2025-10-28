@@ -1,11 +1,9 @@
 Figure 34 - The workflow of the Preliminary Cloud Assessment Process
 
-Steps:
+Stages:
 
-1. Start
-2. Prepare decision making criteria (cloud suitability criteria)
-3. Identify alternatives
-4. Evaluate each alternative, against the criteria
-5. Determin preferred alternative
-6. Record the resolution, decision rationale, and assumptions and compile a report
-7. End
+1. Prepare decision making criteria (cloud suitability criteria)
+2. Identify alternatives
+3. Evaluate each alternative, against the criteria
+4. Determine preferred alternative
+5. Record the resolution, decision rationale, and assumptions and compile a report

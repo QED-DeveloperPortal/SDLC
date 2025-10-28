@@ -1,8 +1,6 @@
 Figure 39 - Work breakdown structure of the Projectisation and Planning Process
 
-Projectisation and Planning Process
-
-Steps:
+Projectisation and Planning Process Stages:
 
 1. Identify the project objectives and constraints
 2. Define the project scope as established in the agreement

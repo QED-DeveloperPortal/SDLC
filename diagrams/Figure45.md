@@ -1,8 +1,6 @@
 Figure 45 - The work breakdown structure of the Infrastructure Provisioning Process
 
-Infrastructure Provisioning Process
-
-Steps:
+Infrastructure Provisioning Process Stages:
 
 1. Determine if the release needs new infrastructure or is there any change in the infrastructure needed for the release
 2. Define new project infrastructure requirements
