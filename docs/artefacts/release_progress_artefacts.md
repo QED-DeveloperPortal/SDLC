@@ -1,3 +1,7 @@
+---
+index: true
+---
+
 # Release Artefacts
 
 ## Zone 1

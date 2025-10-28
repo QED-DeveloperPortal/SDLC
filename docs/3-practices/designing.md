@@ -1,3 +1,7 @@
+---
+index: true
+---
+
 # Designing
 *Exploring and shaping possible solutions through rapid, testable ideas.*
 * Makes thinking visible — so we can test it, challenge it, and improve it

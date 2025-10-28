@@ -1,3 +1,7 @@
+---
+index: true
+---
+
 # Testing
 *Building confidence by embedding quality into everything we do.*
 * Ensures we’re delivering safe, usable, accessible, and reliable software

@@ -1,3 +1,7 @@
+---
+index: true
+---
+
 # Defining
 *Clarifying purpose, priorities, and direction so everyone pulls in the same direction.*
 * Turns research insights into actionable direction

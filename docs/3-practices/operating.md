@@ -1,3 +1,7 @@
+---
+index: true
+---
+
 ## Operating
 *Keeping systems reliable, observable, and ready to grow.*
 * Ensures the product performs under real-world conditions

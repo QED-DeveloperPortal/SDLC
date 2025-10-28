@@ -1,6 +1,7 @@
-<!--
+---
+index: true
 title: Practices
--->
+---
 
 ## Core practices of SDLC 
 

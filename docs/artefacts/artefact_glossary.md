@@ -1,3 +1,7 @@
+---
+index: true
+---
+
 # SDLC Artefact glossary
 
 | **Artefact** | **Required for Type 1 Release** | **Required for Type 2 Release** | **Required for Type 3 Release** |
@@ -20,7 +24,7 @@
 | Physical Solution Architecture | ✓   | ✓   | ✓   |
 | Design Review Report <sup>[\[5\]](#footnote-5)</sup> | ✓   | ✓   | ✓   |
 | Implementation Stage Artefacts |     |     |     |
-| All codes and scripts fully finalized and checked into DET's selected source control environment. | ✓   | ✓   | ✓   |
+| All codes and scripts fully finalized and checked into DET’s selected source control environment. | ✓   | ✓   | ✓   |
 | Test Summary Report <sup>[\[6\]](#footnote-6)</sup> | ✓   | ✓   | ✓   |
 | Code Review Report <sup>[\[7\]](#footnote-7)</sup> | ✓   | ✓   | ✓   |
 | Deployment Plan | ✓   | ✓   | ✓   |
