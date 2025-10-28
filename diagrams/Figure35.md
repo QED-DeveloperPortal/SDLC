@@ -1,6 +1,6 @@
 Figure 35 - Work breakdown structure for the High-Level Idea Definition Process
 
-High-Level Idea Definition Process
+High-Level Idea Definition Process Stages:
 
 1. Identify stakeholder and their classes
 2. Review identified problems and opportunities in the organisation strategy with respect to desired organisation goals or objectives

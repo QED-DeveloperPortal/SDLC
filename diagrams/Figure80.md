@@ -1,6 +1,6 @@
 Figure 80 - The workflow of the Validation Process
 
-Steps:
+Stages:
 
 1. Identify the validation scope and corresponding validation actions
 2. Identify the constraints that potentially limit the feasibility of validation actions

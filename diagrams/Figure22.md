@@ -1,5 +1,9 @@
 Figure 22 - Business Requirements Refinement Iteration
 
+Stages:
+
 1. Concept
-2. Requirements lead to Business Requirements
-3. Analysis and Design lead to Refinement Iterations
+2. Requirements
+3. Analysis and Design
+
+Working through these stages leads to Business Requirements Refinement Iterations

@@ -1,9 +1,9 @@
 Figure 18 - Product Stabilisation Iteration
 
-System Development Life Cycle
+System Development Life Cycle Stages:
 
-Analysis and Design
+1. Analysis and Design
+2. Implementation
+3. Test
 
-Implementation leads to Product Stabilisation
-
-Test leads to Iterations
+Iterations of these three steps lead to Product Stabilisation

@@ -1,8 +1,6 @@
 Figure 43 - The work breakdown structure of the Demonstration and Evaluation Process
 
-Demonstration and Evaluation Process
-
-Steps:
+Demonstration and Evaluation Process Stages:
 
 1. Analyse Requirements
 2. Develop the initial prototype

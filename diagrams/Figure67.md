@@ -1,8 +1,6 @@
 Figure 67 - The work breakdown structure of teh Pre-Verification Deployment Process
 
-Pre-Verification Deployment Process
-
-Subitems:
+Pre-Verification Deployment Process Stages:
 
 1. Engage the change/release authority
 2. Identify the affected areas and stakeholders
