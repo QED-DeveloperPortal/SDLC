@@ -1,7 +1,7 @@
 All supporting visuals (PNG, JPG, PDF, SVG)
 
 
-## Recommended Naming Strategy
+## Recommended naming strategy
 diagram-type]_[descriptive-title]-[slug/ID].[filetype]
 
 ### Supporting
