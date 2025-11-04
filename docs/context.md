@@ -1,56 +1,103 @@
-# FAQ
 
-## Governance
+This document supplements the SDLC by providing practical guidance, clarifications, and examples to help teams understand and apply the framework in real terms. It bridges policy and practice—covering common questions, helpful tips, and emerging approaches across all stages of delivery.
 
-### 1. What is governance?
-
-Governance is important.
-
-### 2. How is governance implemented in the QED Developer world?
+---
 
 
-## Risk
+# **Compliance in Agile: Transitioning from Waterfall to Iterative Methods**
 
-### 1. What is Risk?
+Many of the Department’s current compliance controls were originally designed to support **Waterfall-style projects**—where large, sequential stages lead to a final release.
+As we evolve towards **Agile**, **Spiral**, and **Product Operating Models**, our goal is not to discard compliance but to **adapt** it—making assurance activities **lighter, continuous, and embedded** into everyday delivery.
 
-Risk is important.
+The Department is progressively modernising these artefacts to align with iterative development, automation, and contemporary DevSecOps practices.
+Where possible, traditional deliverables should be met through **incremental evidence** produced naturally during sprints, releases, and continuous integration.
 
-### 2. How is risk managed in the QED Developer world?
 
-Risk is managed appropriately in the QED Developer world.
+## **1. Information Security Assessment (ISA)**
 
-## Security
+**Purpose:** Ensures information assets are appropriately managed for security, privacy, and classification.
+**Legacy expectation:** Conducted once prior to production release.
+**Iterative alignment:**
 
-### 1. What is security?
+* Embed security and privacy reviews **throughout delivery** rather than waiting for end-stage assessment.
+* Perform a **Privacy Threshold Assessment (PTA)** early to determine if a full ISA is needed.
+* Track risks and mitigations within each sprint’s backlog or Azure DevOps board.
+  **Modernisation direction:** Move toward **automated security scanning**, **reusable patterns**, and **lightweight reassessment** triggered only by major changes in data sensitivity or architecture.
 
-Security is important.
 
-### 2. How is security managed in the QED Developer world?
+## **2. Cloud Assessment Report (CAR)**
 
-Security is managed appropriately in the QED Developer world.
+**Purpose:** Confirms compliance for cloud-hosted components.
+**Legacy expectation:** Manual report reviewed by Architecture and Security prior to deployment.
+**Iterative alignment:**
 
-## Release
+* Use **approved Azure Landing Zones** and reference **standard deployment templates** to satisfy cloud compliance.
+* For new or non-standard patterns, seek **GBN approval** early (particularly where data sovereignty or offshore storage is involved).
+  **Modernisation direction:** Integrate CAR validation into **Infrastructure-as-Code pipelines** and **architecture review gates**.
 
-### 1. How are releases done in the QED world?
 
-Releases are done in an orderly fashion in the QED world.
+## **3. Release Risk & Issue Register**
 
-## PRC vs CT
+**Purpose:** Documents and manages risks throughout the project lifecycle.
+**Legacy expectation:** Maintained as a static document.
+**Iterative alignment:**
 
-### 1. What are PRC and CT?
+* Treat risk and issue management as a **living process**—tracked within sprint boards, retrospectives, and product dashboards.
+* Encourage teams to identify, mitigate, and close risks continuously rather than at the end of the release.
+  **Modernisation direction:** Link risk artefacts directly to **work items**, **user stories**, and **automated test coverage reports** for traceability.
 
-PRC is one thing and CT is another.
 
-### 2. What is the difference between PRC and CT?
 
-PRC is different to CT.
+## **4. Acceptance Test Summary Report (ATSR)**
 
-## Architecture
+**Purpose:** Demonstrates that functionality meets user and business requirements.
+**Legacy expectation:** Formal report completed after testing phase.
+**Iterative alignment:**
 
-### 1. What is architecture?
+* Replace standalone reports with **continuous test evidence**—Azure DevOps test plans, automated regression logs, or sprint review outcomes.
+* Consider the **Definition of Done (DoD)** as the natural home for acceptance criteria.
+  **Modernisation direction:** Encourage **automated test pipelines** and dashboards as proof of compliance.
 
-Architecture is important.
 
-### 2. How is architecture managed in the QED world?
 
-Architecture is managed by the Architecture team in QED.
+## **5. Quality Assurance Certificates**
+
+**Purpose:** Validates that software meets Departmental standards for quality, accessibility, and usability.
+**Legacy expectation:** Certificates provided at the end of the development cycle.
+**Iterative alignment:**
+
+* Incorporate QA activities directly into each sprint’s DoD.
+* Use **automated linting and accessibility tools** to support WCAG 2.x and Common User Environment (CUE) compliance.
+* Apply **branding and UX checks** as part of design review gates.
+  **Modernisation direction:** Move from static sign-offs to **continuous compliance evidence** across sprints.
+
+
+
+## **6. Production Readiness Certificate (PRC)**
+
+**Purpose:** Verifies that a product or service is ready for production deployment.
+**Legacy expectation:** Large, end-of-project artefact required before go-live.
+**Iterative alignment:**
+
+* For **existing products** or **incremental features**, only new or high-risk components should require a PRC.
+* For **new products**, perform a full PRC once, then manage ongoing readiness through automated checks.
+  **Modernisation direction:** Transition toward **Certificate Tickets (CTs)**—lightweight, risk-based approvals that can be tracked per feature or change.
+
+
+## **7. Change Management**
+
+**Purpose:** Controls how updates are deployed into production environments.
+**Legacy expectation:** Manual approval process focused on major releases.
+**Iterative alignment:**
+
+* The Department is reviewing its change management approach to support **Agile and CI/CD** pipelines.
+* The intent is to enable **seamless, low-risk delivery** using automated testing, peer reviews, and environment gates.
+  **Modernisation direction:** Shift from “change approval” to **change visibility and assurance**, supported by telemetry, audit trails, and release automation.
+
+
+### **Summary**
+
+The overarching principle is **continuous compliance**—building quality and assurance into every step of delivery, rather than applying it as a final gate.
+Each traditional artefact should evolve from a **document** into an **automated, iterative control**, aligned with real-time feedback and observable evidence from modern development tools.
+
+---
