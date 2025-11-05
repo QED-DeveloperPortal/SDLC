@@ -46,7 +46,7 @@ To present an approach that enables more agile delivery for release management i
 
 ### Embrace iterative development
 
-  * Break down the project into smaller, manageable increments. This allows for regular feedback and adjustments, rather than waiting until the end of the project to * *  assess progress.
+  * Break down the project into smaller, manageable increments. This allows for regular feedback and adjustments, rather than waiting until the end of the project to  assess progress.
 
 ### Incorporate Agile practices
 
@@ -75,9 +75,9 @@ To present an approach that enables more agile delivery for release management i
 
   * Conduct regular reviews of the development process to identify bottlenecks and areas for improvement. Adapt the approach based on feedback from the team and stakeholders to ensure that the process remains efficient and effective.
 
-* By incorporating these strategies, Type 1 projects can benefit from a more agile approach to release management while still adhering to the necessary constraints of the waterfall model. This balance can lead to improved delivery timelines and increased stakeholder satisfaction.
+By incorporating these strategies, Type 1 projects can benefit from a more agile approach to release management while still adhering to the necessary constraints of the waterfall model. This balance can lead to improved delivery timelines and increased stakeholder satisfaction.
 
-* These strategies align with the principles of the Software Development Life Cycle (SDLC) and aim to enhance the overall quality and efficiency of the development process.
+These strategies align with the principles of the Software Development Life Cycle (SDLC) and aim to enhance the overall quality and efficiency of the development process.
 
 **Old Content**
 * Treat risk and issue management as a **living process**—tracked within sprint boards, retrospectives, and product dashboards.
