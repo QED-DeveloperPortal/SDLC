@@ -38,11 +38,9 @@ Where possible, traditional deliverables should be met through **incremental evi
 
 ## **3. Release Risk & Issue Register**
 
-**Purpose:** Documents and manages risks throughout the project lifecycle.
-**Legacy expectation:** Maintained as a static document.
-**Iterative alignment:**
+SDLC Type 1 projects are typically constrained and follow a waterfall methodology.
 
-To present an approach that enables more agile delivery for release management in SDLC Type 1 projects, which are typically constrained and follow a waterfall methodology, consider the following strategies:
+To foster a more agile approach for release management in SDLC Type 1 projects, consider the following strategies:
 
 ### Embrace iterative development
 
@@ -84,6 +82,10 @@ By incorporating these strategies, Type 1 projects can benefit from a more agile
 These strategies align with the principles of the Software Development Life Cycle (SDLC) and aim to enhance the overall quality and efficiency of the development process.
 
 **Old Content**
+
+**Purpose:** Documents and manages risks throughout the project lifecycle.
+**Legacy expectation:** Maintained as a static document.
+**Iterative alignment:**
 * Treat risk and issue management as a **living process**—tracked within sprint boards, retrospectives, and product dashboards.
 * Encourage teams to identify, mitigate, and close risks continuously rather than at the end of the release.
   **Modernisation direction:** Link risk artefacts directly to **work items**, **user stories**, and **automated test coverage reports** for traceability.
