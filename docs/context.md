@@ -40,7 +40,7 @@ Where possible, traditional deliverables should be met through **incremental evi
 
 SDLC Type 1 projects are typically constrained and follow a waterfall methodology.
 
-To foster a more agile approach for release management in SDLC Type 1 projects, consider the following strategies:
+To foster a more modern approach, such as those contained in Agile, Spiral or Product Operating Model for release management in SDLC Type 1 projects, consider implementing the following as components:
 
 ### Embrace iterative development
 
