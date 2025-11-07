@@ -38,9 +38,11 @@ Where possible, traditional deliverables should be met through **incremental evi
 
 ## **3. Release Risk & Issue Register**
 
-SDLC Type 1 projects are typically constrained and follow a waterfall methodology.
+SDLC Type 1 projects have usually followed a waterfall methodology.
 
-To foster a more modern approach, such as those contained in Agile, Spiral or Product Operating Model for release management in SDLC Type 1 projects, consider implementing the following as components:
+While the SDLC focuses on the 'What' there are modern implementation approaches that offer alternatives to waterfall in terms of the 'How'. These include Agile, Spiral and Product Operating Model. 
+
+To foster a more modern approach for release management in SDLC Type 1 projects, consider incorporating the following approaches in your implementation strategy:
 
 ### Embrace iterative development
 
@@ -67,7 +69,7 @@ To foster a more modern approach, such as those contained in Agile, Spiral or Pr
 
 ### Use mock APIs
 
-  * DevPortal has numerous mock APIs that match the input interfaces and output data types of production grade APIs. You can find these via the APIs menu on the DevPortal home page.
+  * DevPortal has numerous mock APIs that match the input interfaces and output data types of production grade APIs without any contact with any internally managed system. You can find these via the APIs menu on the DevPortal home page.
 
 ### Focus on documentation and traceability
 
