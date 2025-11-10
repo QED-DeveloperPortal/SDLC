@@ -110,6 +110,16 @@ These strategies align with the principles of the Software Development Life Cycl
 
 ## **4. Acceptance Test Summary Report (ATSR)**
 
+
+To modernise the approach to satisfying Acceptance Test Summary Report (ATSR) requirements in the QED SDLC, organisations must move beyond static, post-phase documentation toward continuous, evidence-based validation embedded in the delivery pipeline. The legacy model — a manually compiled ATSR after testing concludes — is slow, siloed, and prone to lag between actual system behaviour and reported outcomes. Modernisation replaces this with real-time, automated evidence collected throughout each sprint.
+
+The Definition of Done (DoD) becomes the foundational anchor: acceptance criteria are no longer abstract requirements but machine-verifiable conditions encoded into test cases. Automated unit, integration, and end-to-end tests — orchestrated via Azure DevOps pipelines — execute with every code commit. Pass/fail results, coverage metrics, and user scenario outcomes are logged automatically, creating an immutable audit trail. Instead of waiting for a final report, stakeholders view live dashboards showing test progress, pass rates, and regression trends — turning the ATSR from a document into a dynamic status indicator.
+
+Sprint reviews and release gates now rely on this aggregated evidence. A “passing” ATSR is no longer a deliverable but an emergent property of consistent test success. For example, if 100% of user acceptance scenarios pass in the last three sprints with zero critical regressions, the system is deemed accepted — no formal report needed. Where manual UAT is still required (e.g., usability or compliance), results are captured directly in Azure Test Plans and linked to user stories, ensuring traceability.
+
+This shift reduces administrative overhead, eliminates last-minute surprises, and aligns with Agile principles. The ATSR is no longer a checkpoint — it’s a continuous assurance signal, validated by automation, visible to all, and trusted by stakeholders. Compliance is proven through action, not paperwork.
+
+**Old Content**
 **Purpose:** Demonstrates that functionality meets user and business requirements.
 **Legacy expectation:** Formal report completed after testing phase.
 **Iterative alignment:**
