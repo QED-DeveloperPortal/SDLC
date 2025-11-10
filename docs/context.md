@@ -40,7 +40,9 @@ Where possible, traditional deliverables should be met through **incremental evi
 
 SDLC Type 1 projects often follow a waterfall methodology.
 
-While the SDLC focuses on 'What' there are modern implementation approaches that offer alternatives to waterfall in terms of the 'How'. These include Agile, Spiral and Product Operating Model. 
+The SDLC focuses on 'What' is required for release management. However there are modern alerternative approaches to waterfall for 'How' to implement release management.
+
+These include Agile, Spiral and Product Operating Model. 
 
 Traditionally Release Risk has been maintained as a static document.
 
