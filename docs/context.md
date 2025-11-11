@@ -181,6 +181,18 @@ This transforms the PRC from a bottleneck into an agile, scalable governance lay
 
 ## **7. Change Management**
 
+To modernise Change Management within the QED SDLC, organisations must evolve from a manual, release-centric approval model to a continuous, telemetry-driven assurance framework aligned with Agile and CI/CD practices. The legacy approach — requiring formal, time-consuming approvals for every major release — created bottlenecks, discouraged frequent deployments, and treated all changes as high-risk by default.
+
+Modernisation replaces “change approval” with “change visibility and assurance.” Instead of waiting for a change advisory board (CAB) meeting, teams leverage automated pipelines that enforce environment gates: code must pass automated testing, security scanning, infrastructure compliance checks (via Azure Policy), and peer reviews before any deployment is permitted. These gates act as programmable approvals — eliminating manual sign-offs for low-risk changes while escalating only high-impact or novel modifications.
+
+Telemetry is central to this shift. Every deployment is instrumented with real-time monitoring (Azure Monitor, Application Insights), automated rollback triggers, and audit trails tied to Git commits and Azure DevOps work items. This creates an immutable record of what changed, who approved it (via pull request reviews), when it deployed, and how it performed post-release — turning change into a transparent, traceable event rather than an opaque approval.
+
+For incremental updates to stable services, automated change categorisation (e.g., “patch,” “minor feature”) determines the required controls. Low-risk changes auto-deploy to staging and production after passing all gates; high-risk or first-time integrations trigger targeted reviews — but still within automated workflows.
+
+This transforms Change Management from a gatekeeper into an enabler: faster delivery, reduced friction, and stronger compliance through visibility. The goal is no longer “approval” — it’s assurance built into every commit, validated by data, and auditable in real time.
+
+**Old Content**
+
 **Purpose:** Controls how updates are deployed into production environments.
 **Legacy expectation:** Manual approval process focused on major releases.
 **Iterative alignment:**
