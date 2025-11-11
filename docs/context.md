@@ -120,6 +120,7 @@ Sprint reviews and release gates now rely on this aggregated evidence. A “pass
 This shift reduces administrative overhead, eliminates last-minute surprises, and aligns with Agile principles. The ATSR is no longer a checkpoint — it’s a continuous assurance signal, validated by automation, visible to all, and trusted by stakeholders. Compliance is proven through action, not paperwork.
 
 **Old Content**
+
 **Purpose:** Demonstrates that functionality meets user and business requirements.
 **Legacy expectation:** Formal report completed after testing phase.
 **Iterative alignment:**
@@ -131,6 +132,18 @@ This shift reduces administrative overhead, eliminates last-minute surprises, an
 
 
 ## **5. Quality Assurance Certificates**
+
+To modernise the Quality Assurance Certificate (QAC) process within the QED SDLC, organisations must transition from a final-stage, manual sign-off to a continuous, automated evidence chain embedded in every sprint. The legacy model — where a static QAC was compiled at cycle end, often as a last-minute checklist — created bottlenecks and delayed detection of non-compliance with Departmental standards for quality, accessibility (WCAG 2.x), and usability (CUE).
+
+Modernisation embeds QA into the Definition of Done (DoD): every user story must pass automated accessibility scans (e.g., Axe, Lighthouse), code linting for maintainability, and UX consistency checks before being marked “done.” These tools run automatically in CI/CD pipelines (e.g., Azure DevOps), generating real-time compliance metrics. For example, a build fails if contrast ratios fall below WCAG AA thresholds or if ARIA labels are missing — enforcing accessibility by design, not after the fact.
+
+Branding and UX checks are integrated into design review gates via Figma plugins or automated visual regression tools that compare UI changes against approved style guides. Non-compliant components are flagged before code even reaches development.
+
+Instead of a single end-of-cycle certificate, compliance is demonstrated through a live dashboard aggregating test results, accessibility scores, code quality metrics (SonarQube), and design audit logs. This dynamic “living QAC” provides auditors and stakeholders with transparent, timestamped proof that quality standards were met continuously — not just at a checkpoint.
+
+The result: reduced rework, faster approvals, and true compliance-by-design. The QAC evolves from a ceremonial document into an automated assurance signal — proving quality isn’t checked at the finish line, but built in from the first commit.
+
+** Old Content**
 
 **Purpose:** Validates that software meets Departmental standards for quality, accessibility, and usability.
 **Legacy expectation:** Certificates provided at the end of the development cycle.
