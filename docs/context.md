@@ -15,7 +15,7 @@ Where possible, traditional deliverables should be met through **incremental evi
 
 ## **1. Information Security Assessment (ISA)**
 
-To modernise the Information Security Assessment (ISA) process within the QED SDLC, organisations must shift from a single, late-stage compliance checkpoint to an embedded, continuous security assurance practice woven into every phase of delivery. The legacy model — conducting a comprehensive ISA only just before production release — often resulted in costly rework, delayed deployments, and reactive risk management.
+To modernise the Information Security Assessment (ISA) process within the QED SDLC, the organisation could shift from a single, late-stage compliance checkpoint to an embedded, continuous security assurance practice woven into every phase of delivery. The legacy model — conducting a comprehensive ISA only just before production release — often resulted in costly rework, delayed deployments, and reactive risk management.
 
 Modernisation begins with early triage: a lightweight Privacy Threshold Assessment (PTA) is performed during the Concept stage to determine whether a full ISA is required based on data sensitivity, classification level (e.g., Protected, Sensitive), and processing context. This prevents over-engineering for low-risk components while ensuring rigorous scrutiny where needed.
 
@@ -41,7 +41,7 @@ The result: an agile, risk-based ISA that evolves with the system — not agains
 
 ## **2. Cloud Assessment Report (CAR)**
 
-To modernise the approach to satisfying Cloud Assessment Report (CAR) requirements within the QED Software Development Life Cycle (SDLC), organisations must shift from manual, siloed reviews to automated, integrated governance embedded within DevOps and Infrastructure-as-Code (IaC) pipelines. The legacy model — where a static CAR document was manually prepared, reviewed by Architecture and Security teams, and approved prior to deployment — introduced delays, inconsistency, and risk of human error. Modernisation transforms this into a proactive, scalable, and compliance-by-design process aligned with cloud-native principles.
+To modernise the approach to satisfying Cloud Assessment Report (CAR) requirements within the QED Software Development Life Cycle (SDLC), the organisation could shift from manual, siloed reviews to automated, integrated governance embedded within DevOps and Infrastructure-as-Code (IaC) pipelines. The legacy model — where a static CAR document was manually prepared, reviewed by Architecture and Security teams, and approved prior to deployment — introduced delays, inconsistency, and risk of human error. Modernisation transforms this into a proactive, scalable, and compliance-by-design process aligned with cloud-native principles.
 
 The cornerstone of this transformation is the adoption of approved Azure Landing Zones and standardised, pre-vetted deployment templates. These artefacts encapsulate organisational security controls, network architecture, identity management, logging, and compliance policies (e.g., CIS benchmarks, NIST controls) in reusable, version-controlled IaC modules (e.g., Terraform, Bicep). By mandating their use for all cloud-hosted components, teams inherently satisfy foundational CAR requirements such as secure network segmentation, encryption at rest and in transit, and role-based access control (RBAC). This eliminates the need for post-hoc validation of basic configurations, reducing review burden and accelerating delivery.
 
@@ -121,11 +121,9 @@ These strategies align with the principles of the Software Development Life Cycl
   **Modernisation direction:** Link risk artefacts directly to **work items**, **user stories**, and **automated test coverage reports** for traceability.
 
 
-
 ## **4. Acceptance Test Summary Report (ATSR)**
 
-
-To modernise the approach to satisfying Acceptance Test Summary Report (ATSR) requirements in the QED SDLC, organisations must move beyond static, post-phase documentation toward continuous, evidence-based validation embedded in the delivery pipeline. The legacy model — a manually compiled ATSR after testing concludes — is slow, siloed, and prone to lag between actual system behaviour and reported outcomes. Modernisation replaces this with real-time, automated evidence collected throughout each sprint.
+To modernise the approach to satisfying Acceptance Test Summary Report (ATSR) requirements in the QED SDLC, the organisation can move beyond static, post-phase documentation toward continuous, evidence-based validation embedded in the delivery pipeline. The legacy model — a manually compiled ATSR after testing concludes — is slow, siloed, and prone to lag between actual system behaviour and reported outcomes. Modernisation replaces this with real-time, automated evidence collected throughout each sprint.
 
 The Definition of Done (DoD) becomes the foundational anchor: acceptance criteria are no longer abstract requirements but machine-verifiable conditions encoded into test cases. Automated unit, integration, and end-to-end tests — orchestrated via Azure DevOps pipelines — execute with every code commit. Pass/fail results, coverage metrics, and user scenario outcomes are logged automatically, creating an immutable audit trail. Instead of waiting for a final report, stakeholders view live dashboards showing test progress, pass rates, and regression trends — turning the ATSR from a document into a dynamic status indicator.
 
@@ -144,10 +142,9 @@ This shift reduces administrative overhead, eliminates last-minute surprises, an
   **Modernisation direction:** Encourage **automated test pipelines** and dashboards as proof of compliance.
 
 
-
 ## **5. Quality Assurance Certificates**
 
-To modernise the Quality Assurance Certificate (QAC) process within the QED SDLC, organisations must transition from a final-stage, manual sign-off to a continuous, automated evidence chain embedded in every sprint. The legacy model — where a static QAC was compiled at cycle end, often as a last-minute checklist — created bottlenecks and delayed detection of non-compliance with Departmental standards for quality, accessibility (WCAG 2.x), and usability (CUE).
+To modernise the Quality Assurance Certificate (QAC) process within the QED SDLC, the organisation may choose to transition from a final-stage, manual sign-off to a continuous, automated evidence chain embedded in every sprint. The legacy model — where a static QAC was compiled at cycle end, often as a last-minute checklist — creates bottlenecks and delayed detection of non-compliance with Departmental standards for quality, accessibility (WCAG 2.x), and usability (CUE).
 
 Modernisation embeds QA into the Definition of Done (DoD): every user story must pass automated accessibility scans (e.g., Axe, Lighthouse), code linting for maintainability, and UX consistency checks before being marked “done.” These tools run automatically in CI/CD pipelines (e.g., Azure DevOps), generating real-time compliance metrics. For example, a build fails if contrast ratios fall below WCAG AA thresholds or if ARIA labels are missing — enforcing accessibility by design, not after the fact.
 
@@ -172,7 +169,7 @@ The result: reduced rework, faster approvals, and true compliance-by-design. The
 
 ## **6. Production Readiness Certificate (PRC)**
 
-To modernise the Production Readiness Certificate (PRC) process within the QED SDLC, organisations must shift from monolithic, end-of-project documentation to lightweight, risk-driven, and continuously validated “Certificate Tickets” (CTs) tied to individual features or changes. The legacy model — a bulky, manually compiled PRC required before every go-live — created delays, duplicated effort, and treated all deployments as high-risk, regardless of scope.
+To modernise the Production Readiness Certificate (PRC) process within the QED SDLC, the organisation may decide to shift from monolithic, end-of-project documentation to lightweight, risk-driven, and continuously validated “Certificate Tickets” (CTs) tied to individual features or changes. The legacy model — a bulky, manually compiled PRC required before every go-live — created delays, duplicated effort, treating all deployments as high-risk, regardless of scope.
 
 Modernisation introduces a tiered, intelligent approach: for established products with stable infrastructure and proven operational controls, only new or high-risk components (e.g., data schema changes, third-party integrations, security-sensitive modules) require a CT. Incremental updates to existing features — such as UI tweaks or non-critical bug fixes — are deemed ready by automated health checks and historical performance data, eliminating redundant reviews.
 
@@ -195,9 +192,9 @@ This transforms the PRC from a bottleneck into an agile, scalable governance lay
 
 ## **7. Change Management**
 
-To modernise Change Management within the QED SDLC, organisations must evolve from a manual, release-centric approval model to a continuous, telemetry-driven assurance framework aligned with Agile and CI/CD practices. The legacy approach — requiring formal, time-consuming approvals for every major release — created bottlenecks, discouraged frequent deployments, and treated all changes as high-risk by default.
+To modernise Change Management within the QED SDLC, the organisation may choose to evolve from a manual, release-centric approval model to a continuous, telemetry-driven assurance framework aligned with Agile and CI/CD practices. The legacy approach — requiring formal, time-consuming approvals for every major release — can create bottlenecks and discourage frequent deployments by treating all changes as high-risk by default.
 
-Modernisation replaces “change approval” with “change visibility and assurance.” Instead of waiting for a change advisory board (CAB) meeting, teams leverage automated pipelines that enforce environment gates: code must pass automated testing, security scanning, infrastructure compliance checks (via Azure Policy), and peer reviews before any deployment is permitted. These gates act as programmable approvals — eliminating manual sign-offs for low-risk changes while escalating only high-impact or novel modifications.
+Modernisation replaces “change approval” with “change visibility and assurance.” Instead of waiting for a change advisory board (CAB) meeting, teams can leverage automated pipelines that enforce environment gates: code must pass automated testing, security scanning, infrastructure compliance checks (via Azure Policy), and peer reviews before any deployment is permitted. These gates act as programmable approvals — eliminating manual sign-offs for low-risk changes while escalating only high-impact or novel modifications.
 
 Telemetry is central to this shift. Every deployment is instrumented with real-time monitoring (Azure Monitor, Application Insights), automated rollback triggers, and audit trails tied to Git commits and Azure DevOps work items. This creates an immutable record of what changed, who approved it (via pull request reviews), when it deployed, and how it performed post-release — turning change into a transparent, traceable event rather than an opaque approval.
 
