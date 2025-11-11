@@ -15,6 +15,20 @@ Where possible, traditional deliverables should be met through **incremental evi
 
 ## **1. Information Security Assessment (ISA)**
 
+To modernise the Information Security Assessment (ISA) process within the QED SDLC, organisations must shift from a single, late-stage compliance checkpoint to an embedded, continuous security assurance practice woven into every phase of delivery. The legacy model — conducting a comprehensive ISA only just before production release — often resulted in costly rework, delayed deployments, and reactive risk management.
+
+Modernisation begins with early triage: a lightweight Privacy Threshold Assessment (PTA) is performed during the Concept stage to determine whether a full ISA is required based on data sensitivity, classification level (e.g., Protected, Sensitive), and processing context. This prevents over-engineering for low-risk components while ensuring rigorous scrutiny where needed.
+
+Security and privacy reviews are then integrated into each sprint. Risks — such as PII exposure, insecure APIs, or non-compliant data storage — are logged directly in Azure DevOps as backlog items linked to user stories, ensuring they’re tracked alongside functional requirements. Automated security scanning (SAST/DAST, dependency checks via OWASP Dependency-Track or Azure Security Center) runs with every code commit, flagging vulnerabilities in real time and blocking non-compliant builds.
+
+Reusable security patterns — such as pre-approved Azure Landing Zones, encrypted data pipelines, and hardened identity configurations — are codified in Infrastructure-as-Code (IaC) templates. Teams inherit compliance by design, reducing the need for repetitive manual assessments.
+
+Reassessment is triggered only by material changes: a new data classification, cross-border transfer, or architecture shift (e.g., introducing AI/ML processing). These events auto-initiate a streamlined ISA update, not a full re-evaluation.
+
+The result: an agile, risk-based ISA that evolves with the system — not against it. Security is no longer a gate but a continuous, visible assurance layer, reducing overhead while strengthening resilience and compliance.
+
+**Old Content**
+
 **Purpose:** Ensures information assets are appropriately managed for security, privacy, and classification.
 **Legacy expectation:** Conducted once prior to production release.
 **Iterative alignment:**
