@@ -158,6 +158,18 @@ The result: reduced rework, faster approvals, and true compliance-by-design. The
 
 ## **6. Production Readiness Certificate (PRC)**
 
+To modernise the Production Readiness Certificate (PRC) process within the QED SDLC, organisations must shift from monolithic, end-of-project documentation to lightweight, risk-driven, and continuously validated “Certificate Tickets” (CTs) tied to individual features or changes. The legacy model — a bulky, manually compiled PRC required before every go-live — created delays, duplicated effort, and treated all deployments as high-risk, regardless of scope.
+
+Modernisation introduces a tiered, intelligent approach: for established products with stable infrastructure and proven operational controls, only new or high-risk components (e.g., data schema changes, third-party integrations, security-sensitive modules) require a CT. Incremental updates to existing features — such as UI tweaks or non-critical bug fixes — are deemed ready by automated health checks and historical performance data, eliminating redundant reviews.
+
+For entirely new products, a full PRC is conducted once during initial launch. Subsequent releases then rely on automated, continuous readiness signals: infrastructure-as-code compliance (via Azure Policy), monitoring dashboards (e.g., Azure Monitor, Application Insights), automated rollback triggers, and operational runbook validation. These form the “living PRC” — a real-time assurance that the system remains production-ready.
+
+Each CT is tracked as a ticket in Azure DevOps, linked to the change request, with automated evidence attached: test pass rates, security scan results, backup validation logs, and support handover confirmation. Approval workflows are streamlined — low-risk CTs auto-approve if all criteria are met; high-risk ones trigger targeted reviews by Architecture or Ops.
+
+This transforms the PRC from a bottleneck into an agile, scalable governance layer. Risk is assessed dynamically, compliance is proven continuously, and teams ship faster — with confidence that production readiness isn’t a milestone, but a condition maintained every day.
+
+**Old Content**
+
 **Purpose:** Verifies that a product or service is ready for production deployment.
 **Legacy expectation:** Large, end-of-project artefact required before go-live.
 **Iterative alignment:**
