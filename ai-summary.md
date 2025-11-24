@@ -10,12 +10,12 @@ Here is a summary of what you can expect to find in the repository:
 
 ***
 
-## 📝 Purpose
+## Purpose
 The core content is a **guide** detailing the **entire SDLC** as practised by the Queensland Department of Education. This is crucial for anyone involved in building applications for or with the department, as it outlines the mandatory steps, policies, and best practices from initial idea to deployment and maintenance.
 
 ***
 
-## 📂 Content learners can expect
+## Content learners can expect
 While the detailed content of the files won't be fully readable in the summary, the folder structure and description strongly suggest that the documentation covers the following learning topics:
 
 * **SDLC phases and documentation:** The `docs` folder is likely the main area, containing detailed documentation for each stage of the SDLC (e.g., planning, requirements, design, implementation, testing, deployment).
@@ -25,5 +25,5 @@ While the detailed content of the files won't be fully readable in the summary, 
 
 ***
 
-## 💡 Learning takeaway
+## Learning takeaway
 For a learner, this repository is the definitive source for understanding the **governance and procedural requirements** of software development within the department. It's less about learning *how* to code, and more about learning *how to develop systems correctly* that are **compliant with departmental standards**.
