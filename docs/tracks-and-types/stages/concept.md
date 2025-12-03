@@ -1,3 +1,6 @@
+---
+index: true
+---
 # Concept stage
 
 ## Overview

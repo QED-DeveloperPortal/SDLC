@@ -1,3 +1,6 @@
+---
+index: true
+---
 # Release Acceptability Criteria and Quality Metrics
 
 ## Overview

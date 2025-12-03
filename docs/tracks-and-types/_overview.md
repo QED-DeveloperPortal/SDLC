@@ -1,3 +1,6 @@
+---
+index: true
+---
 # Tracks verview
 
 An **SDLC Track** represents a traversal through the stages of the Software Development Life Cycle (SDLC) with the goal of producing a **production release**.

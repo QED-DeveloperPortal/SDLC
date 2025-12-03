@@ -1,5 +1,6 @@
-
-
+---
+index: true
+---
 # Requirements Stage
 
 ## Overview

@@ -1,3 +1,6 @@
+---
+index: true
+---
 # Analysis and Design Stage
 
 ## Overview

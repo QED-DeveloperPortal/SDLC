@@ -1,3 +1,6 @@
+---
+index: true
+---
 ## Artefact and Document Versioning
 
 ### **Statement**

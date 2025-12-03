@@ -1,3 +1,6 @@
+---
+index: true
+---
 # Freedom in Tailoring the SDLC Artefacts
 
 ### **Statement**

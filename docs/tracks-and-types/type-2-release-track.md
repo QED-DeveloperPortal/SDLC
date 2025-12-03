@@ -1,3 +1,6 @@
+---
+index: true
+---
 # Type 2 Release Track
 
 ## Overview

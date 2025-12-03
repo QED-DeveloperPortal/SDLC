@@ -1,3 +1,6 @@
+---
+index: true
+---
 # Implementation Stage
 
 ## Overview

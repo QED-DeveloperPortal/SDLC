@@ -1,3 +1,6 @@
+---
+index: true
+---
 # Life cycle model management process
 
 ### Purpose

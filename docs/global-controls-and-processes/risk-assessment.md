@@ -1,3 +1,6 @@
+---
+index: true
+---
 # Risk assessment process
 
 ### Purpose

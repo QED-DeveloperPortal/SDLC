@@ -1,3 +1,6 @@
+---
+index: true
+---
 # Information classification process
 
 ### Purpose

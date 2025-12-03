@@ -1,3 +1,6 @@
+---
+index: true
+---
 ## Information Classification Changes in Iterative Development
 
 ### **Statement**

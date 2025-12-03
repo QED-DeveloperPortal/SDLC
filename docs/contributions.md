@@ -1,3 +1,6 @@
+---
+index: true
+---
 # Contributions
 This document explains **how to contribute, edit, review, and publish** updates to the SDLC documentation.
 Our goal is to make the SDLC a **living, collaboratively maintained resource**, supported by subject-matter experts, delivery teams, and governance stakeholders.

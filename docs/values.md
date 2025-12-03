@@ -1,3 +1,6 @@
+---
+index: true
+---
 # [Our public service values](https://www.forgov.qld.gov.au/pay-benefits-and-policy/public-service-values-and-conduct/public-service-values)
 
 

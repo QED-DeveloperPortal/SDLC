@@ -1,3 +1,6 @@
+---
+index: true
+---
 # Retirement Stage
 
 ## Overview

@@ -1,3 +1,6 @@
+---
+index: true
+---
 ## Risk Level in Release Bundles
 
 ### **Statement**
